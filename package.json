@@ -1,0 +1,14 @@
+{
+  "name": "beesbeesbees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "open test/index.html"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
